@@ -1,0 +1,1 @@
+{"machine_1": {"ip_address": "192.168.1.251", "port_number": "4370", "device_id": "0", "url": "http://nutrichfoodtest.erpdata.in", "api_key": "51053aa86c577af", "secret_key": "a2ef80a1b079714"}, "machine_2": {"ip_address": "", "port_number": "4370", "device_id": "41410", "url": "https://demomilkunion.erpdata.in", "api_key": "933d5b377069335", "secret_key": "acfd0adcbfe7e8e"}}
